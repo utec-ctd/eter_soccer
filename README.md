@@ -19,18 +19,18 @@ Te presentamos el AI challenge, el objetivo del evento es programar la inteligen
 ## Cronograma 
 
 ### Lunes 7 de octubre
-
 10:00 : Lanzamiento
 11:00 : Release del desafío
 
-### Sábado 12 de octubre
+### Mentorías durante el desafío
+19:00 a 22:00 el equipo técnico estará disponible para atender consultas a través del servidor discord.
 
+### Sábado 12 de octubre
 12:00 : Entrega de códigos por parte de los equipos
 
 16:00 a 17:30: Torneo online y entrega de premios
 
 ## Reglas
-
 - No se pueden usar métodos que interactúen directamente con el motor físico del juego. (preguntar a los organizadores si hay dudas acerca de qué está permitido)
 - Solo está permitido usar FieldPositions como posiciones iniciales (no customizarlas), deben estar de tu lado de la cancha y estas deben ser distintas para cada jugador.
 
