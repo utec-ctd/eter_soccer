@@ -1,6 +1,6 @@
-# UdeSA AI Challenge
+# UTEC - ETER SOCCER
  
-Bienvenidos al UdeSA AI Challenge! En este desafío te retamos a crear tu propio equipo de fútbol y competir con otros equipos participantes.
+Bienvenidos a ETER SOCCER! En este desafío te retamos a crear tu propio equipo de fútbol y competir con otros equipos participantes.
  
 - [AI Challenge](#ai-challenge)
   - [Introducción](#introducción)
