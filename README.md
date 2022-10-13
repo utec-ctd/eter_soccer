@@ -2,7 +2,7 @@
  
 Bienvenidos a ETER SOCCER! En este desafío te retamos a crear tu propio equipo de fútbol y competir con otros equipos participantes.
  
-- [AI Challenge](#ai-challenge)
+- [Copa EterSoccer](#ai-challenge)
   - [Introducción](#introducción)
   - [Competencia](#competencia)
   - [Cronograma](#cronograma)
@@ -18,19 +18,16 @@ Te presentamos el AI challenge, el objetivo del evento es programar la inteligen
 
 ## Cronograma 
 
-### Viernes 24 de Junio
+### Lunes 7 de octubre
 
-20:00 : Release del challenge
+10:00 : Lanzamiento
+11:00 : Release del desafío
 
-### Sábado 2 de Julio
+### Sábado 12 de octubre
 
 12:00 : Entrega de códigos por parte de los equipos
 
-16:00 a 17:30: Torneo online
-
-17:30 a 17:45: Entrega de premios 
-
-17:45 a 18:00: Cierre del evento
+16:00 a 17:30: Torneo online y entrega de premios
 
 ## Reglas
 
