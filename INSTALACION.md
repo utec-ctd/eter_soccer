@@ -1,4 +1,4 @@
-# Guia de Instalación para el AI Challenge
+# Guia de Instalación para ETER SOCCER
 
 
 ## Unity
